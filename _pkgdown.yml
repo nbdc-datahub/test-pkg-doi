@@ -1,0 +1,7 @@
+repo:
+  url:
+    home: https://github.com/ucsd-dsm/dsm-template-R-package/
+    source: https://github.com/ucsd-dsm/dsm-template-R-package/blob/HEAD/
+    issue: https://github.com/ucsd-dsm/dsm-template-R-package/issues/
+template:
+  bootstrap: 5

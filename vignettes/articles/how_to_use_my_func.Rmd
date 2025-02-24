@@ -1,0 +1,19 @@
+---
+title: "How to use myFunction"
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+```{r setup}
+library(testPkg)
+```
+
+```{r}
+my_function(3)
+```
+

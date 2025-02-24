@@ -1,0 +1,12 @@
+# project name, either abcd or hbcd
+project: "abcd"
+
+permissions:
+  # one entry for each dir
+  # it includes dir name, access groups and access users
+  - name: "template-package"
+    # access-users: 
+    #   - xxx@xxx.edu
+    #   - xasd@dsf.com
+    access-groups: 
+      - "dsm_dev"
