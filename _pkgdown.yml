@@ -1,7 +1,8 @@
+url: https://software.abcdstudy.org/test-pkg-doi/
 repo:
   url:
-    home: https://github.com/ucsd-dsm/dsm-template-R-package/
-    source: https://github.com/ucsd-dsm/dsm-template-R-package/blob/HEAD/
-    issue: https://github.com/ucsd-dsm/dsm-template-R-package/issues/
+    home: https://github.com/nbdc-datahub/test-pkg-doi/
+    source: https://github.com/nbdc-datahub/test-pkg-doi/blob/HEAD/
+    issue: https://github.com/nbdc-datahub/test-pkg-doi/issues/
 template:
   bootstrap: 5
