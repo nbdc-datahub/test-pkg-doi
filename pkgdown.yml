@@ -1,0 +1,9 @@
+pandoc: 3.1.11
+pkgdown: 2.1.1
+pkgdown_sha: ~
+articles:
+  articles/how_to_use_my_func: how_to_use_my_func.html
+last_built: 2025-02-25T17:31Z
+urls:
+  reference: https://software.abcdstudy.org/test-pkg-doi/reference
+  article: https://software.abcdstudy.org/test-pkg-doi/articles
